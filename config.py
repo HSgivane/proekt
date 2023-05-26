@@ -1,0 +1,8 @@
+vk_token = "vk1.a.nBL6jZ53JWqM8BfCv3e53le-uKIfPA22Q0WQoQEE4HugbqTpFKapKRViiYBw7ddQM6uTP1FTO0Xa3xK_o1Nx7bXE-g72ILPOEES2-M4DJLmGgOMG7OMIneMh82yKjTRJJSs5k-myX15DTLSGE-RvUZjuuAF_KajNGQMEWJke2dITQg0k6yYzgfnR8OZG8aF7"
+
+settings_ds = {
+    'token': 'MTAwNjMxODgxMjI4NDU4NDA1OA.G9mZ6D.hxRdJuO2g0w-fMMZR237vhV40WvPBcL_EI_oSg',
+    'bot': 'CHENISHERE',
+    'id': 1006318812284584058,
+    'prefix': 'tb!'
+}
